@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "farmacia-web"
+  "defaultProject": "farmacia-web",
+  "cli": {
+    "analytics": false
+  }
 }
